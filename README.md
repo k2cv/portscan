@@ -70,7 +70,7 @@ Copyright (c) 2026 Soar. All rights reserved.
 
 [![I2TT](https://img.shields.io/badge/I2TT-GITHUB-black?style=for-the-badge&logo=github)](https://github.com/i2tt) [![K2CV](https://img.shields.io/badge/K2CV-GITHUB-black?style=for-the-badge&logo=github)](https://github.com/k2cv)
 
-Authored-By: [i2tt](https://github.com/i2tt)
+Authored-By: [k2cv](https://github.com/k2cv)
 
 ## Disclaimer
 
